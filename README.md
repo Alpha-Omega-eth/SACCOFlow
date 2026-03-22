@@ -4,7 +4,7 @@ Django-powered SACCO management system. Members track savings, access loans (3x 
 
 A Django-powered Savings and Credit Cooperative management system. Members can track savings (KES 1,000 minimum), access instant loans up to 3x their savings at 0.5% interest. Features include member registration, savings deposits/withdrawals, loan applications, automated eligibility calculations, and admin dashboard.
  🔗 Live Demo
-[https://sacco-flow--alpha-omega-eth.replit.app/login](https://sacco-flow--alpha-omega-eth.replit.app/login)
+[https://a2eb575b-c593-484d-8fab-6da2b6b12321-00-302zvhlc1yjp5.janeway.replit.dev/login
 
 🚀 Features
 - Member management
