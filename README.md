@@ -21,5 +21,5 @@ A Django-powered Savings and Credit Cooperative management system. Members can t
 - Replit (hosting)
 
  📱 Test Credentials
-- Member ID: [add test ID here]
-- Password: [add test password here]
+- Member ID: [SAC005]
+
